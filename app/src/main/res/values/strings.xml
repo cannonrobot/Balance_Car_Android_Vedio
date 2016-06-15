@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="player_extra_file_name">file_name</string>
+    <string name="app_name">RemoteCam</string>
+    <string name="choose_file">Choose File</string>
+    <string name="title_module_detail">Module Detail</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bt_connect_error">Failed to connect to Bluetooth Device \"%s\"</string>
+    <string name="wifi_connect_error">Failed to connect to \"%1$s:%2$d\", please check you WIFI settings</string>
+    <string name="command_not_supported_error">Command \"%s\" is not supported yet!</string>
+    <string name="invalid_session_error">SessionID is invalid, please start a session first!</string>
+    <string name="invalid_connect_error">The selected connectivity type is not supported"</string>
+    <string name="title_activity_stream_player">StreamPlayerActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>
